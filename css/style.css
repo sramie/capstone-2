@@ -1,0 +1,66 @@
+body {
+    background-image: url("../images/starry-sky.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backface-visibility: hidden;
+}
+
+#hero{
+    font-size: 5rem;
+    color: aliceblue;
+}
+
+.btn {
+    color: aliceblue !important;
+    border-color: aliceblue !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+#feature {
+    padding-bottom: 30%;
+}
+
+.card {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Playfair', serif !important;
+    color: bisque;
+}
+
+h2 {
+    font-family: 'Playfair', serif;
+    color: bisque;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.container {
+    padding: 20px;
+}
+
+.container-2 {
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.contact-me {
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
